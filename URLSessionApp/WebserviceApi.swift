@@ -7,15 +7,6 @@
 //
 
 import Foundation
-// Mock JSON
-let json = """
-{
-    "firstName": "John",
-    "lastName" : "Tony"
-    "Age" : 31
-}
-""".data(using: .utf8)!
-
 class WebserviceAPI {
     // Web API for GET Method
     func executeWebAPIWithGetMethod(executeURL : URL, completionHandler: @escaping ([String : Any]?, Error?) -> Void) {

@@ -14,7 +14,6 @@
 		7A6256F1224243C8008D8E67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A6256F0224243C8008D8E67 /* Assets.xcassets */; };
 		7A6256F4224243C8008D8E67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A6256F2224243C8008D8E67 /* LaunchScreen.storyboard */; };
 		7ACFD76F2242738A005E928C /* WebserviceApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ACFD76E2242738A005E928C /* WebserviceApi.swift */; };
-		7ACFD7712242C4E1005E928C /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ACFD7702242C4E1005E928C /* DataModel.swift */; };
 		7ACFD77322462DB9005E928C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ACFD77222462DB9005E928C /* Constants.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		7A6256F3224243C8008D8E67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A6256F5224243C8008D8E67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7ACFD76E2242738A005E928C /* WebserviceApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebserviceApi.swift; sourceTree = "<group>"; };
-		7ACFD7702242C4E1005E928C /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		7ACFD77222462DB9005E928C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -67,7 +65,6 @@
 				7ACFD77222462DB9005E928C /* Constants.swift */,
 				7ACFD76E2242738A005E928C /* WebserviceApi.swift */,
 				7A33BFAE2247D4FE00285A72 /* CustomButton.swift */,
-				7ACFD7702242C4E1005E928C /* DataModel.swift */,
 				7A6256ED224243BC008D8E67 /* Main.storyboard */,
 				7A6256F0224243C8008D8E67 /* Assets.xcassets */,
 				7A6256F2224243C8008D8E67 /* LaunchScreen.storyboard */,
@@ -150,7 +147,6 @@
 				7ACFD77322462DB9005E928C /* Constants.swift in Sources */,
 				7A6256EC224243BC008D8E67 /* ViewController.swift in Sources */,
 				7A33BFAF2247D4FE00285A72 /* CustomButton.swift in Sources */,
-				7ACFD7712242C4E1005E928C /* DataModel.swift in Sources */,
 				7A6256EA224243BC008D8E67 /* AppDelegate.swift in Sources */,
 				7ACFD76F2242738A005E928C /* WebserviceApi.swift in Sources */,
 			);
